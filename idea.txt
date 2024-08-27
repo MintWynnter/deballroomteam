@@ -1,0 +1,18 @@
+Home Page:
+	Home page should be very short. Everything should fit in one screen. Have a navbar at the top of the screen with links to the "About," "Schedule," "Announcements," and "Donations" pages.
+	Maybe have some pictures, but not too many.
+	
+About Page:
+	Brief description of the team, as well as how we teach/what we dance. We can have more pictures here, if we want. We can also have contact info here, or in a different page, if desired.
+
+Scedule Page:
+	Should be self explanatory. This will have the schedule for the lessons.
+	
+Announcements Page:
+	This is where any announcements about upcoming lessons or cancellations will go.
+	
+Donations Page:
+	Here we can link to the gofundme, and have a brief explanation of what the money will go towards.
+	
+(possibility) Performance Request Page:
+	We could have a page that gives a way for people to request us for performances at events, private lessons, or other things. This could probably also go into the contacts page.
